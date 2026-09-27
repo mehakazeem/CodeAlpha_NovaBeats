@@ -3,6 +3,11 @@
 **NovaBeats** is a sleek, responsive, and feature-rich web music application built with a modern dark neon aesthetic. Developed as part of the **CodeAlpha Web Development Internship**, this project showcases advanced DOM manipulation, Web Audio API integration, dynamic search filters, and smooth CSS animations.
 
  NovaBeats  
+ 🌐 Live Demo 
+ 
+ 🔗  https://codealpha-novabeats.netlify.app/
+
+
 ---
 
 ## ⚡ Key Features
